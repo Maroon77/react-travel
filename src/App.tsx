@@ -17,6 +17,7 @@ function App() {
           </Col>
         </Row>
       </div>
+      <p>test</p>
       <Footer />
     </div>
   );
